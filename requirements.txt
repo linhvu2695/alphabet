@@ -1,0 +1,5 @@
+flask==2.2.2
+bidict==0.22.0
+numpy==1.23.5
+matplotlib==3.6.2
+tensorflow-macos==2.10.0
